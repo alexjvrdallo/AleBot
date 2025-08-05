@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, MessageHandler, filters, ContextTyp
 GROSIAS = [
     "puta", "mierda", "cabron", "pendejo", "idiota", "imbecil", "malparido", "chingada",
     "verga", "coño", "joder", "gilipollas", "pelotudo", "culiao", "culero", "estupido", "zorra",
-    "bitch", "fuck", "shit", "asshole", "dick", "bastard", "motherfucker", "slut", "cunt"
+    "bitch", "fuck", "shit", "asshole", "dick", "bastard", "motherfucker", "Jetacas", "cunt"
 ]
 
 async def borrar_si_groseria(update: Update, context: ContextTypes.DEFAULT_TYPE):
